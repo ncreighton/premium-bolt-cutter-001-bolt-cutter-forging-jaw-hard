@@ -1,0 +1,2 @@
+# premium-bolt-cutter-001-bolt-cutter-forging-jaw-hard
+Tired of losing track of tempering cycles and jaw hardening schedules for your bolt cutter projects? Your forge deserves a central command center — not scattered notes.  This Notion template transforms chaos into a streamlined workflow for forging and heat-treating bolt cutters. It centralizes project timelines, material specs, and client orders so
